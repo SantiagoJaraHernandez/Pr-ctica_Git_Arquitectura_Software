@@ -29,7 +29,7 @@ Este repositorio es una práctica para aprender los conceptos básicos de **Git 
   git commit -m "Agregar README con instrucciones iniciales"
   ```
 
-## 🌿 Ramas y Fusiones
+## 🌿 Ramas y Fusiones (Rama desarrollo)
 1. Creé una rama llamada `desarrollo`:
    ```bash
    git checkout -b desarrollo
