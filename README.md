@@ -66,4 +66,3 @@ Este repositorio es una práctica para aprender los conceptos básicos de **Git 
 
 - [Documentación oficial de Git](https://git-scm.com/doc)
 - [Guía rápida de GitHub](https://guides.github.com)
-
